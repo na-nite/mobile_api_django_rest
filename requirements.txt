@@ -1,0 +1,14 @@
+asgiref==3.2.8
+Django==3.0.7
+djangorestframework==3.11.0
+pytz==2020.1
+sqlparse==0.3.1
+django-cors-headers==3.2.1
+django-heroku==0.3.1
+Pillow==7.1.2
+gunicorn==20.0.4
+django-filter==2.2.0
+django-filters==0.2.1
+dropbox==9.4.0
+django-dropbox-storage==0.4.1
+django-storages==1.9.1
